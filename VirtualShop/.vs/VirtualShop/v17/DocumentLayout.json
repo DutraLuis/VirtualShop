@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\virtualshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\virtualshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "VirtualShop.ProductApi\\Context\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:54:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VirtualShop.ProductApi",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj*",
+              "RelativeToolTip": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T16:53:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Models\\Category.cs",
@@ -35,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Models\\Product.cs",
