@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
               "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
               "RelativeToolTip": "VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T21:12:05.793Z",
               "EditorCaption": ""
@@ -78,11 +78,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VirtualShop.ProductApi",
+              "Title": "VirtualShop.ProductApi.csproj",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
-              "RelativeToolTip": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj*",
+              "RelativeToolTip": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-11T16:53:04.129Z",
