@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\migrations\\20240711211159_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\migrations\\20240711211159_seedproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\virtualshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\virtualshop.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "VirtualShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:24:30.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "VirtualShop.ProductApi\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:24:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20240711211159_SeedProducts.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
               "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
               "RelativeToolTip": "VirtualShop.ProductApi\\Migrations\\20240711211159_SeedProducts.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA5AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T21:12:05.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "20240711205655_Initial.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Migrations\\20240711205655_Initial.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Migrations\\20240711205655_Initial.cs",
@@ -64,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Context\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Context\\ApplicationContext.cs",
@@ -77,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "VirtualShop.ProductApi.csproj",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj",
@@ -90,26 +124,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Models\\Category.cs",
               "RelativeToolTip": "VirtualShop.ProductApi\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T16:48:43.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Models\\Product.cs",
               "RelativeToolTip": "VirtualShop.ProductApi\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T16:45:27.037Z",
               "EditorCaption": ""
