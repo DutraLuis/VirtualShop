@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "VirtualShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAgwCwAAAAXAAAA",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Services\\CategoryService.cs",
+              "RelativeToolTip": "VirtualShop.ProductApi\\Services\\CategoryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T00:44:32.029Z",
+              "WhenOpened": "2024-07-16T00:12:59.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "VirtualShop.ProductApi\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "VirtualShop.ProductApi\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T00:22:41.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "VirtualShop.ProductApi\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T16:07:49.124Z",
+              "WhenOpened": "2024-07-16T00:07:19.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "VirtualShop.ProductApi\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "VirtualShop.ProductApi\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T16:08:08.692Z",
+              "WhenOpened": "2024-07-16T00:07:32.817Z",
               "EditorCaption": ""
             }
           ]
