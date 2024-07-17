@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using VirtualShop.ProductApi.Services;
 
 namespace VirtualShop.ProductApi.Controllers;
 
@@ -6,4 +7,10 @@ namespace VirtualShop.ProductApi.Controllers;
 [ApiController]
 public class CategoriesController : ControllerBase
 {
+    private readonly ICategoryService _categoryService;
+
+    public CategoriesController(ICategoryService categoryService)
+    {
+        _categoryService = categoryService;
+    }
 }
