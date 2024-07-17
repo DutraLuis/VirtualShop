@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF3DFDDA-D4EE-41FD-8943-06E23BC9059D}|VirtualShop.ProductApi\\VirtualShop.ProductApi.csproj|solutionrelative:virtualshop.productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "VirtualShop.ProductApi\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:19:42.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "VirtualShop.ProductApi\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.ProductApi\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "VirtualShop.ProductApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:20:20.929Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
