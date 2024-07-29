@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{52F3D26D-CC0B-40EF-AEDF-774D142F0925}|VirtualShop.Web\\VirtualShop.Web.csproj|c:\\users\\lipee\\source\\repos\\virtualshop\\virtualshop\\virtualshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F3D26D-CC0B-40EF-AEDF-774D142F0925}|VirtualShop.Web\\VirtualShop.Web.csproj|solutionrelative:virtualshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "VirtualShop.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lipee\\source\\repos\\VirtualShop\\VirtualShop\\VirtualShop.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "VirtualShop.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:37:26.151Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
